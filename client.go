@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/mdlayher/ethernet"
-	"github.com/mdlayher/packet"
+	"github.com/synfinatic/packet"
 )
 
 // errNoIPv4Addr is returned when an interface does not have an IPv4
